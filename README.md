@@ -2,11 +2,11 @@
 
 ## ミッション
 
-1. Rancher<sup id="note_ref-1-1"><a href="#note-1-1">†1</a></sup>およびオープンソースのコンテナ関連のユーザを増やすこと
-2. Rancher<sup id="note_ref-1-1"><a href="#note-1-1">†1</a></sup>およびオープンソースのコンテナ関連について情報共有すること
-3. Rancher<sup id="note_ref-1-1"><a href="#note-1-1">†1</a></sup>およびオープンソースのコンテナ関連プロジェクトに貢献すること
+1. Rancher<sup><a id="note_ref-1-1" href="#note-1-1">注1</a></sup>およびオープンソースのコンテナ関連のユーザを増やすこと
+2. Rancher<sup><a id="note_ref-1-1" href="#note-1-1">注1</a></sup>およびオープンソースのコンテナ関連について情報共有すること
+3. Rancher<sup><a id="note_ref-1-1" href="#note-1-1">注1</a></sup>およびオープンソースのコンテナ関連プロジェクトに貢献すること
 
-1.<a href="#note_ref-t1-1-1" id="note-t1-1-1">**^**</a> Rancher、RancherOS、RKE、k3s、k3OS、Submariner、Longhorn等を指す
+注1. **<a id="note-1-1" href="#note_ref-1-1">^</a>** Rancher、RancherOS、RKE、k3s、k3OS、Submariner、Longhorn等を指す
 
 ## メンバーシップ
 
@@ -54,14 +54,14 @@ RancherJPのメンバーシップは一般メンバーと運営メンバーの2�
 * 運営メンバーのなるべく多くが議論に参加する必要がある議題は原則運営Slackにて決議される必要がある
 * 投票期間は1週間とする
 * 次のケースについては運営Slackチャンネルでの投票で決定する
-   * RancherJPの代表の選出<sup id="note_ref-2-1"><a href="#note-2-1">†1</a></sup>
-   * 一般メンバーの脱退<sup id="note_ref-2-1"><a href="#note-2-1">†1</a></sup>
-   * 運営メンバーの加入/脱退<sup id="note_ref-2-1"><a href="#note-2-1">†1</a></sup>
-   * RancherJP の名義での活動の承認<sup id="note_ref-2-2"><a href="#note-2-2">†2</a></sup>
-   * 運営規約 の承認および変更の投票<sup id="note_ref-2-1"><a href="#note-2-1">†1</a></sup>
+   * RancherJPの代表の選出<sup><a id="note_ref-2-1"><a href="#note-2-1">注1</a></sup>
+   * 一般メンバーの脱退<sup><a id="note_ref-2-1"><a href="#note-2-1">注1</a></sup>
+   * 運営メンバーの加入/脱退<sup><a id="note_ref-2-1"><a href="#note-2-1">注1</a></sup>
+   * RancherJP の名義での活動の承認<sup><a id="note_ref-2-2"><a href="#note-2-2">注2</a></sup>
+   * 運営規約 の承認および変更の投票<sup><a id="note_ref-2-1"><a href="#note-2-1">注1</a></sup>
 
-1.<a href="#note_ref-t1-2-1" id="note-t1-2-1">**^**</a> 運営メンバーの2/3以上の賛成で決定とする。 ただし投票開始から7日以内に投票しなかった場合は白票と見なし、多数決の母数に含めない。  
-2.<a href="#note_ref-t1-2-1" id="note-t1-2-1">**^**</a> 運営メンバーの過半数の賛成で決定とする。 ただし投票開始から7日以内に投票しなかった場合は白票と見なし、多数決の母数に含めない。
+注1. **<a id="note-2-1" href="#note_ref-2-1">^</a>** 運営メンバーの2/3以上の賛成で決定とする。 ただし投票開始から7日以内に投票しなかった場合は白票と見なし、多数決の母数に含めない。  
+注2. **<a id="note-2-2" href="#note_ref-2-2">^</a>** 運営メンバーの過半数の賛成で決定とする。 ただし投票開始から7日以内に投票しなかった場合は白票と見なし、多数決の母数に含めない。
 
 ### RancherJPの運営ミーティングでの投票
 
@@ -79,12 +79,12 @@ RancherJPのメンバーシップは一般メンバーと運営メンバーの2�
 
 RancherJP に以下の担当を置く
 
-1. RancherJPの代表<sup id="note_ref-3-1"><a href="#note-3-1">†1</a></sup>
-2. Meetup開催エリアグループのリーダー<sup id="note_ref-3-2"><a href="#note-3-2">†2</a></sup>
+1. RancherJPの代表<sup><a id="note_ref-3-1"><a href="#note-3-1">†1</a></sup>
+2. Meetup開催エリアグループのリーダー<sup><a id="note_ref-3-2"><a href="#note-3-2">†2</a></sup>
 3. TwitterなどのSNS 担当
 
-1.<a href="#note_ref-t1-3-1" id="note-t1-3-1">**^**</a> 年1回改選。任期4月から翌年3月まで。  
-2.<a href="#note_ref-t1-3-2" id="note-t1-3-2">**^**</a> Meetup開催エリアで活動する運営メンバーにて決定。 年1回改選。任期4月から翌年3月まで。
+注1. **<a id="note-3-1" href="#note_ref-3-1">^</a>** 年1回改選。任期4月から翌年3月まで。  
+注2. **<a id="note-3-2" href="#note_ref-3-2">^</a>** Meetup開催エリアで活動する運営メンバーにて決定。 年1回改選。任期4月から翌年3月まで。
 
 ## イベント実施エリア
 
