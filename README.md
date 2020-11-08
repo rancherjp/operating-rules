@@ -79,8 +79,8 @@ RancherJPのメンバーシップは一般メンバーと運営メンバーの2�
 
 RancherJP に以下の担当を置く
 
-1. RancherJPの代表<sup><a id="note_ref-3-1"><a href="#note-3-1">†1</a></sup>
-2. Meetup開催エリアグループのリーダー<sup><a id="note_ref-3-2"><a href="#note-3-2">†2</a></sup>
+1. RancherJPの代表<sup><a id="note_ref-3-1"><a href="#note-3-1">注1</a></sup>
+2. Meetup開催エリアグループのリーダー<sup><a id="note_ref-3-2"><a href="#note-3-2">注2</a></sup>
 3. TwitterなどのSNS 担当
 
 注1. **<a id="note-3-1" href="#note_ref-3-1">^</a>** 年1回改選。任期4月から翌年3月まで。  
